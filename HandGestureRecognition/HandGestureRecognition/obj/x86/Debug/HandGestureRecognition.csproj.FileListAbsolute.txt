@@ -1,0 +1,48 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResGen.read.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResGen.write.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.cache
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.CoreCompileInputs.cache
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.CopyComplete
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\camera\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\Misiek\Desktop\hand\HandGestureRecognitionCopy\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
